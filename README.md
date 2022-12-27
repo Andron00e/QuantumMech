@@ -1,2 +1,2 @@
 # QuantumMech
-DGAP MIPT
+DGAP MIPT course
